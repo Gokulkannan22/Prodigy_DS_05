@@ -48,6 +48,14 @@ Analyze traffic accident data to identify patterns related to:
 - `screenshots/` – Saved plots used in analysis
 
 ---
+## 📦 Dataset
+
+This project uses the **US Accidents (March 2023)** dataset.
+
+Due to GitHub’s file size limits, the CSV file is not included in the repository.
+
+🔗 [Download the dataset from Kaggle](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents)
+
 
 ## 📌 Tools Used
 
